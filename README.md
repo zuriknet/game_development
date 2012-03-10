@@ -1,11 +1,14 @@
 #This is our README template file
 
-##Take a look at the README.md file to see the different things we can do with just a markdown file.
+###Take a look at the README.md file to see the different things we can do with just a markdown file.
 
 Installation
 ============
 
-Double click the .clips file to install into Panic Coda.
+Here is where we drop our instructions.
+###1. Step 1...
+###2. Step 2...
+###3. Step 3...
 
 Cheat Sheet
 ===========
