@@ -6,6 +6,9 @@ Installation
 ============
 
 Here is where we drop our instructions.
+
+We can even drop in HTML. See below...
+
 ####Sub-Instructions
 Step 1...
 Step 2...
